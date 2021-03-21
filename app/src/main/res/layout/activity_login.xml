@@ -58,6 +58,7 @@
         android:layout_height="50dp"/>
     
     <LinearLayout
+        android:id="@+id/login_btn"
         android:orientation="horizontal"
         android:gravity="center"
         android:background="@drawable/login_btn_bg"
@@ -98,6 +99,7 @@
         android:layout_height="wrap_content"/>
 
     <LinearLayout
+        android:id="@+id/register_btn"
         android:orientation="horizontal"
         android:gravity="center"
         android:background="@drawable/login_facebook_bg"
